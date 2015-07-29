@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+76#!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
 from runner.koan import *
